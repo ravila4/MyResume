@@ -9,6 +9,7 @@
 \LoadClass{article}
 
 % Package Imports
+\usepackage{fontawesome}
 \usepackage[hmargin=1.25cm, vmargin=0.7cm]{geometry}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{hyperref}
